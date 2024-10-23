@@ -33,6 +33,6 @@ hello # first directory with a simple "hello world" example
 
 1. [Getting started](https://go.dev/doc/tutorial/getting-started)
 2. [A Go tour](https://go-tour-lat.appspot.com/welcome/1)
-
+3. [Learn go with test](https://quii.gitbook.io/learn-go-with-tests)
 
 
