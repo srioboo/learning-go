@@ -6,9 +6,12 @@ This is a learning project
 
 First of all you need to initialice the proyect by executing
 ```shell
+go mod init
+
+# or to add the module name
 go mod init example/hello
 ```
-This will create a file go.mod in the directory, this file is necesary
+This will create a file go.mod in the directory, this file is necesary only when you execute "go test" or "go build" if you do a simple "go run" it will be not necesary
 
 ## Compile and execute
 
